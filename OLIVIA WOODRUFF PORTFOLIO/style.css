@@ -1,0 +1,22 @@
+.header{
+    background-color: rgb(84, 78, 78);
+    text-align: center;
+}
+
+.about_me{
+    font-size: 20px;
+    opacity: 50%;
+}
+
+.title{
+    font-weight: bold;
+}
+
+h1{
+    color: azure;
+}
+
+body{
+    font-family: Georgia;
+    background-image: url('https://i.pinimg.com/236x/1a/5f/97/1a5f977089b92213d38ba2b2c8fd2991.jpg') ;
+}
